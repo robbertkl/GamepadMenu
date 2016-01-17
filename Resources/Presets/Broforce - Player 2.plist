@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Directional pad - Up</key>
+	<string>W</string>
+	<key>Directional pad - Down</key>
+	<string>S</string>
+	<key>Directional pad - Left</key>
+	<string>A</string>
+	<key>Directional pad - Right</key>
+	<string>D</string>
+	<key>Left stick - Up</key>
+	<string>W</string>
+	<key>Left stick - Down</key>
+	<string>S</string>
+	<key>Left stick - Left</key>
+	<string>A</string>
+	<key>Left stick - Right</key>
+	<string>D</string>
+	<key>Button A</key>
+	<string>F</string>
+	<key>Button B</key>
+	<string>G</string>
+	<key>Button X</key>
+	<string>R</string>
+	<key>Button Y</key>
+	<string>T</string>
+	<key>Home button</key>
+	<integer>53</integer>
+	<key>Left shoulder</key>
+	<string>Q</string>
+	<key>Right shoulder</key>
+	<string>E</string>
+	<key>Left trigger</key>
+	<string>Q</string>
+	<key>Right trigger</key>
+	<string>E</string>
+</dict>
+</plist>

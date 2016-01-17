@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Identifier</key>
+	<array>
+		<dict>
+			<key>Vendor</key>
+			<integer>273</integer>
+			<key>Product</key>
+			<real>5152</real>
+		</dict>
+		<dict>
+			<key>Vendor</key>
+			<integer>4152</integer>
+			<key>Product</key>
+			<real>5152</real>
+		</dict>
+	</array>
+	<key>Elements</key>
+	<dict>
+		<key>12:547</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Binding</key>
+			<string>Home button</string>
+		</dict>
+		<key>1:144</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Directional pad - Up</string>
+		</dict>
+		<key>1:146</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Directional pad - Right</string>
+		</dict>
+		<key>1:145</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Directional pad - Down</string>
+		</dict>
+		<key>1:147</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Directional pad - Left</string>
+		</dict>
+		<key>9:1</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Button A</string>
+		</dict>
+		<key>9:2</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Button B</string>
+		</dict>
+		<key>9:3</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Button X</string>
+		</dict>
+		<key>9:4</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Button Y</string>
+		</dict>
+		<key>9:5</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Left shoulder</string>
+		</dict>
+		<key>9:6</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.001</real>
+			<key>Binding</key>
+			<string>Right shoulder</string>
+		</dict>
+		<key>9:7</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.3</real>
+			<key>ThresholdStickiness</key>
+			<real>0.1</real>
+			<key>Binding</key>
+			<string>Left trigger</string>
+		</dict>
+		<key>9:8</key>
+		<dict>
+			<key>Type</key>
+			<string>Button</string>
+			<key>Threshold</key>
+			<real>0.3</real>
+			<key>ThresholdStickiness</key>
+			<real>0.1</real>
+			<key>Binding</key>
+			<string>Right trigger</string>
+		</dict>
+		<key>1:48</key>
+		<dict>
+			<key>Type</key>
+			<string>Axis</string>
+			<key>Threshold</key>
+			<real>0.3</real>
+			<key>ThresholdStickiness</key>
+			<real>0.1</real>
+			<key>Binding</key>
+			<array>
+				<string>Left stick - Left</string>
+				<string>Left stick - Right</string>
+			</array>
+		</dict>
+		<key>1:49</key>
+		<dict>
+			<key>Type</key>
+			<string>Axis</string>
+			<key>Threshold</key>
+			<real>0.4</real>
+			<key>ThresholdStickiness</key>
+			<real>0.1</real>
+			<key>Binding</key>
+			<array>
+				<string>Left stick - Down</string>
+				<string>Left stick - Up</string>
+			</array>
+		</dict>
+		<key>1:50</key>
+		<dict>
+			<key>Type</key>
+			<string>Axis</string>
+			<key>Threshold</key>
+			<real>0.4</real>
+			<key>ThresholdStickiness</key>
+			<real>0.1</real>
+			<key>Binding</key>
+			<array>
+				<string>Right stick - Left</string>
+				<string>Right stick - Right</string>
+			</array>
+		</dict>
+		<key>1:53</key>
+		<dict>
+			<key>Type</key>
+			<string>Axis</string>
+			<key>Threshold</key>
+			<real>0.4</real>
+			<key>ThresholdStickiness</key>
+			<real>0.1</real>
+			<key>Binding</key>
+			<array>
+				<string>Right stick - Down</string>
+				<string>Right stick - Up</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>

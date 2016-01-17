@@ -1,0 +1,9 @@
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "NwU-Kh-9yK"; */
+"NwU-Kh-9yK.title" = "Stop";
+
+/* Class = "NSMenuItem"; title = "Start at Login"; ObjectID = "PAh-jt-BZe"; */
+"PAh-jt-BZe.title" = "Start na inloggen";
+
+/* Class = "NSMenuItem"; title = "No gamepad devices detected..."; ObjectID = "puw-V8-6JH"; */
+"puw-V8-6JH.title" = "Geen gamepads gedetecteerd...";
