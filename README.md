@@ -20,7 +20,7 @@ Of course, with those limitations, it's hard to get your bro on, so I decided to
 
 ## Installation
 
-Just fetch the latest ZIP from the [release section](https://github.com/robbertkl/GamepadMenu/releases) section and put the extracted app into your Applications folder.
+Just fetch the latest ZIP from the [release section](https://github.com/robbertkl/GamepadMenu/releases) and put the extracted app into your Applications folder.
 
 You might need to disable OS X Gatekeeper to run it: *System Preferences* > *Security & Privacy* > *General* tab > *Allow apps downloaded from: Anywhere*.
 
