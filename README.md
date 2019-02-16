@@ -26,14 +26,14 @@ You might need to disable OS X Gatekeeper to run it: *System Preferences* > *Sec
 
 ## Device profiles
 
-Device profiles map known gamepad devices to "standardised" controls commonly found on gamepads. See [the Device Profiles folder](Resources/Device Profiles/) for all currently supported devices. A device profile plist contains 2 sections:
+Device profiles map known gamepad devices to "standardised" controls commonly found on gamepads. See [the Device Profiles folder](Resources/Device%20Profiles/) for all currently supported devices. A device profile plist contains 2 sections:
 
-* `Identifier` contains a vendor ID + product ID used to identify newly connected devices. If the same device uses different identifiers (e.g. one for USB and another for bluetooth), you can make this an array of dictionaries (see [SteelSeries Nimbus](Resources/Device Profiles/SteelSeries Nimbus.plist) for an example).
+* `Identifier` contains a vendor ID + product ID used to identify newly connected devices. If the same device uses different identifiers (e.g. one for USB and another for bluetooth), you can make this an array of dictionaries (see [SteelSeries Nimbus](Resources/Device%20Profiles/SteelSeries%20Nimbus.plist) for an example).
 
 * `Elements` contains a mapping from all device elements to the common gamepad controls. They are identified by `<usage-page>:<usage>`. Supported element types are:
     * `Button` - Regular button or trigger, either binary (0..1) or pressure sensitive (0..255). Has 1 key binding.
     * `Axis` - X or Y axis of an analog stick. Has 2 key bindings (left+right or up+down).
-    * `Hat Switch` - Single element which maps an entire D-Pad. Has 4 key bindings. See [PlayStation 4 Controller](Resources/Device Profiles/PlayStation 4 Controller.plist) element `1:57` for an example.
+    * `Hat Switch` - Single element which maps an entire D-Pad. Has 4 key bindings. See [PlayStation 4 Controller](Resources/Device%20Profiles/PlayStation%204%20Controller.plist) element `1:57` for an example.
 
 A useful tool to check out HID devices and their elements is [Apple's HID Calibrator code sample](https://developer.apple.com/library/mac/samplecode/HID_Calibrator/).
 
